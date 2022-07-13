@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Don-Visagie
 - 👀 I’m interested in software development and Data Science
-- 🌱 I’m currently learning Python
+- 🌱 Currently learning Python, Django, HTML, Javascript, CSS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: donpierrepix@gmail.com
 
